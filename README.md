@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Suraj Kumar Ray</h1>
-
 <p align="center">
-  Full-Stack Developer • AI Engineering Enthusiast • B.Tech IT Student
+  <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="100%" />
 </p>
 
-I'm a Full-Stack Developer and pursuing a **B.Tech in Information Technology at Netaji Subhash Engineering College**, with a strong interest in building modern web applications, scalable backend systems, and AI-powered products.
+<h1 align="center">Hi 👋, I'm Suraj Kumar Ray</h1>
+
+I'm a Full-Stack Developer pursuing a **B.Tech in Information Technology at Netaji Subhash Engineering College**, passionate about building modern web applications and AI-powered solutions.
 
 **Currently working with:**
-React, Next.js, Node.js, MongoDB, PostgreSQL, AWS, TypeScript, Tailwind CSS
+React, Next.js, Node.js, MongoDB, PostgreSQL, AWS
 
 **Exploring:**
-AI Engineering with Python, Machine Learning, Deep Learning, Generative AI, LLMs, RAG, LangChain, LangGraph, Vector Databases, AI Agents, and model integration.
+Python, Machine Learning, Deep Learning, Generative AI, LLMs, RAG & AI Agents
 
 ---
 
-Always learning, always building — turning ideas into **scalable, intelligent, and user-focused digital products** while continuously exploring the intersection of **Full-Stack Development and AI Engineering**.
+Always learning and building **scalable, intelligent, and user-focused digital products**.
 
-**Let's connect** — I'm always open to collaborating on **innovative full-stack, AI, and real-world technology projects**.
+**Let's connect** — open to collaborating on **Full-Stack & AI projects**.
